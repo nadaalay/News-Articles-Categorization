@@ -4,7 +4,7 @@
 
 1. [Project Overview and Motivation](#motivation)
 2. [File Descriptions](#files)
-3. [Installation] (#installation)
+3. [Installation](#installation)
 4. [Results](#results)
 5. [Licensing](#licensing)
 
@@ -18,10 +18,10 @@ In this project, I will apply machine learning algorithms on news collected from
 ## File Descriptions <a name="files"></a>
 - One notebook file `News_Articles_Categorization.ipynb` which contains the code. 
 - One data file `BBC News Train.csv` - The file contains a dataset of 1490 BBC News articles that classified into five categories: Business, Tech, Politics, Sport, Entertainment.
-	Data Fields:
-		ArticleId - Article id unique # given to the record.
-		Article - text of the header and article.
-		Category - cateogry of the article (tech, business, sport, entertainment, politics)
+	- Data Fields:
+		- ArticleId - Article id unique # given to the record.
+		- Article - text of the header and article.
+		- Category - cateogry of the article (tech, business, sport, entertainment, politics)
 - Articles folder which contains four articles in text files.
 
 ## Installation <a name="installation"></a>
