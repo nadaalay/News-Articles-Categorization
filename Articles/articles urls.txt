@@ -1,0 +1,4 @@
+art1:https://edition.cnn.com/2019/09/30/sport/irish-national-stud-winning-post-spt-intl/index.html
+art2:https://edition.cnn.com/2020/04/15/tech/amazon-france-suspension/index.html
+art3:https://edition.cnn.com/2020/04/15/politics/barack-obama-2020-test/index.html
+art4: https://edition.cnn.com/2020/04/15/entertainment/disney-the-mandalorian-documentary/index.html
