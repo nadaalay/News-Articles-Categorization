@@ -35,4 +35,4 @@ All libraries are avilable in Anaconda distribution of Python except the followi
 In this project, I used CNN news dataset to classify the news text. I used TF-IDF feature extraction algorithm and six different machine learning algorithms: Support Vector Machine , Ada Boost, Gradient Boosting, XG Boost, Decision Tree, Multinomial Naive Bayes. Multinomial Naive Bayes was the best model and then I use it to classify new articles in order to check the model accuracy. . 
 
 ## Data <a name="data"></a>
-The dataset is avilable in [Kaggle](www.kaggle.com/c/learn-ai-bbc/data) website. 
+The dataset is avilable in [Kaggle](https://www.kaggle.com/c/learn-ai-bbc/data) website. 
