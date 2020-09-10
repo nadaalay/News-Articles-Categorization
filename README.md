@@ -6,7 +6,7 @@
 2. [File Descriptions](#files)
 3. [Installation](#installation)
 4. [Results](#results)
-5. [Licensing](#licensing)
+5. [Data](#data)
 
 
 ## Project Motivation<a name="motivation"></a>
@@ -34,5 +34,5 @@ All libraries are avilable in Anaconda distribution of Python except the followi
 ## Results<a name="results"></a>
 In this project, I used CNN news dataset to classify the news text. I used TF-IDF feature extraction algorithm and six different machine learning algorithms: Support Vector Machine , Ada Boost, Gradient Boosting, XG Boost, Decision Tree, Multinomial Naive Bayes. Multinomial Naive Bayes was the best model and then I use it to classify new articles in order to check the model accuracy. . 
 
-## Licensing <a name="licensing"></a>
+## Data <a name="data"></a>
 The dataset is avilable in [Kaggle](www.kaggle.com/c/learn-ai-bbc/data) website. 
